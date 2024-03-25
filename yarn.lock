@@ -319,10 +319,10 @@
   resolved "https://registry.yarnpkg.com/@rollup/rollup-win32-x64-msvc/-/rollup-win32-x64-msvc-4.9.4.tgz#16295ccae354707c9bc6842906bdeaad4f3ba7a5"
   integrity sha512-LfdGXCV9rdEify1oxlN9eamvDSjv9md9ZVMAbNHA87xqIfFCxImxan9qZ8+Un54iK2nnqPlbnSi4R54ONtbWBw==
 
-"@rushstack/eslint-patch@^1.6.0":
-  version "1.6.0"
-  resolved "https://registry.yarnpkg.com/@rushstack/eslint-patch/-/eslint-patch-1.6.0.tgz#1898e7a7b943680d757417a47fb10f5fcc230b39"
-  integrity sha512-2/U3GXA6YiPYQDLGwtGlnNgKYBSwCFIHf8Y9LUY5VATHdtbLlU0Y1R3QoBnT0aB4qv/BEiVVsj7LJXoQCgJ2vA==
+"@rushstack/eslint-patch@^1.8.0":
+  version "1.8.0"
+  resolved "https://registry.yarnpkg.com/@rushstack/eslint-patch/-/eslint-patch-1.8.0.tgz#c5545e6a5d2bd5c26b4021c357177a28698c950e"
+  integrity sha512-0HejFckBN2W+ucM6cUOlwsByTKt9/+0tWhqUffNIcHqCXkthY/mZ7AuYPK/2IIaGWhdl0h+tICDO0ssLMd6XMQ==
 
 "@sinclair/typebox@^0.27.8":
   version "0.27.8"
